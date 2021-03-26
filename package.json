@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "apollo-server-micro": "2.22.0",
+    "apollo-server-micro": "2.22.1",
     "dotenv": "8.2.0",
     "dotenv-cli": "4.0.0",
     "graphql": "15.5.0",
